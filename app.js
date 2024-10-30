@@ -2,7 +2,7 @@ const products = [
     {
       id:101,
       brand: 'Rolex',
-      category:'Lujo',
+      category:'luxury',
       price:'$5,000',
       img: '/img/505.png',
       
@@ -10,7 +10,7 @@ const products = [
     {
         id:102,
         brand: 'Omega ',
-        category:'Lujo',
+        category:'luxury',
         price:'$20,000',
         img: '/img/505.png',
         
@@ -18,21 +18,21 @@ const products = [
     {
         id:103,
         brand: 'Cartier',
-        category:'Lujo',
+        category:'luxury',
         price:'$30,000 ',
         img: '/img/505.png',
     },
     {
         id:104,
         brand: 'Patek Philippe',
-        category:'Lujo',
+        category:'luxury',
         price:'$100,000 ',
         img: '/img/505.png',
     },
     {
         id:105,
         brand: 'Audemars Piguet',
-        category:'Lujo',
+        category:'luxury',
         price:'5,000',
         img: '/img/505.png',
     },
